@@ -37,4 +37,3 @@ printf %s "server {
 
 service nginx restart
 
-#Remove this comment
