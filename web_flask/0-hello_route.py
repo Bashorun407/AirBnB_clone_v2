@@ -15,6 +15,7 @@ def hello_hbnb():
     """Displays 'Hello HBNB!'"""
     return "Hello HBNB!"
 
+#This is just a comment
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")

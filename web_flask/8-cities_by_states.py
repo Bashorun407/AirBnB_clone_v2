@@ -27,6 +27,7 @@ def teardown(exc):
     """Remove the current SQLAlchemy session."""
     storage.close()
 
+#This is just a comment
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
